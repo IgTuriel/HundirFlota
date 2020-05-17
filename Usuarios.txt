@@ -1,0 +1,9 @@
+LISTA DE USUARIOS
+isu;pass
+prog;123
+isu13;pass
+Dolores;beauty
+Java;4
+Blaster;jaxx
+Insanity;lin
+Joac;felix
